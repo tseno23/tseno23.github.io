@@ -1,0 +1,32 @@
+html {
+  position: relative;
+}
+
+.jumbotron img {
+  width: 200px solid gray;
+  margin-top: 40px;
+}
+
+hr {
+  width: 200px;
+  border-top: 60px solid rgb(17, 13, 13);
+}
+
+section {
+  min-height: 600px;
+}
+
+.education {
+  background-color: #eee;
+}
+
+.portfolio {
+  background-color: white;
+}
+
+.contact {
+  background-color: #eee;
+  min-height: 800px;
+}
+
+
